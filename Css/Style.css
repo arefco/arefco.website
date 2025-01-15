@@ -1,0 +1,21 @@
+/* style.css */
+
+.stApp {
+    font-family: -apple-system, BlinkMacSystemFont, 'Times New Roman','Bold';   
+    background:   #0c0c0c ; 
+    background-size: auto;
+
+  }
+
+div.stButton > button:first-child {
+background-color: #a8230c;
+border-color: #1b0b0b;
+font-size:2.5px;
+height:2em;
+width: 35em;
+border-radius:10px 10px 10px 10px;
+box-shadow: none;
+
+}
+
+ 

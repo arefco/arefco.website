@@ -1,0 +1,23 @@
+/* style.css */
+.stApp > header {
+    background-color: transparent;
+}
+
+.stApp {
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    overflow: auto;
+    background: linear-gradient(315deg, #09e03f 3%, #011424 38%, #0b0f4b 68%, #212227 98%);
+  
+    background-size: 400% 400%;
+ 
+  }
+
+  button {
+    background-color: #3008e4; /* Green */
+    border-radius: 8px;
+    padding: 10px;
+}
+button:hover {
+    background-color: #1b1b1a; /* Darker green */
+}
