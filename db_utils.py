@@ -1,7 +1,7 @@
 import pyodbc
 
 # Database connection
-file_path = r"F:\Apps\Db.accdb"  # Replace with your path
+file_path = r"F:\CashFlow\Db.accdb"  # Replace with your path
 
 def create_connection():
     conn = pyodbc.connect(
